@@ -1,0 +1,1 @@
+For an easier lisibility, I put the encoded Base64 string in the zip of the stegano challenge (encoded.txt). But the "real" challenge file for the stegano challenge is ".nextchallenge.zip", in the crypto_secretmessage.zip.
